@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://besusimba-del.github.io/simba-portfolio/sitemap.xml
